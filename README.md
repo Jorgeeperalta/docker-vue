@@ -22,3 +22,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+1 crear Dockerfile 
+
+2 docker build -t 123456jorge/docker-vuej .
+
